@@ -1,0 +1,5 @@
+apiVersion: v2
+name: secureops
+description: SecureOps home lab app
+version: 0.1.0
+appVersion: "0.1.0"
