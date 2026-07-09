@@ -1,6 +1,6 @@
 image:
   repository: upendrareddypolu/secureops-app
-  tag: "0.1.0"
+  tag: "5"
 replicaCount: 1
 service:
   port: 8080
